@@ -101,4 +101,7 @@ code {
 .card-items-img img {
   width: 150px;
   height: 120px;
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
