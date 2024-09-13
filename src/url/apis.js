@@ -1,0 +1,1 @@
+export const api = 'https://axesso-walmart-data-service.p.rapidapi.com/wlm/walmart-search-by-keyword?'
